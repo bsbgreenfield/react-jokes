@@ -107,4 +107,4 @@ class JokeList extends Component {
   }
 }
 
-export default JokeList;
+/* export default JokeList; */
